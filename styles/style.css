@@ -361,20 +361,20 @@
 }
 .main-box2:hover{
     cursor:pointer;
-    background-color: rgb(179, 131, 18);
+    background-color: cyan;
 }
 .main-box1:hover{
     cursor:pointer;
-    background-color: rgb(90, 18, 179);
+    background-color: chartreuse;
     
 }
 .main-box3:hover{
     cursor:pointer;
-    background-color: rgb(224, 22, 22);
+    background-color:orangered;
 }
 .main-box4:hover{
     cursor:pointer;
-    background-color: coral;
+    background-color: greenyellow;
 }
 
 .input-box{
